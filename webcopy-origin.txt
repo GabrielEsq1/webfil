@@ -1,0 +1,48 @@
+Uri: https://cdn.jsdelivr.net/npm/pwacompat@2.0.6/pwacompat.min.js
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\npm\pwacompat@2.0.6\pwacompat.min.js
+Content Type: application/javascript
+
+Uri: https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\pagead\js\f.txt
+Content Type: text/javascript
+
+Uri: https://qrcodescan.in/bundle.css
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\bundle.css
+Content Type: text/css
+
+Uri: https://qrcodescan.in/bundle.js
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\bundle.js
+Content Type: application/javascript
+
+Uri: https://qrcodescan.in/decoder.js
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\decoder.js
+Content Type: application/javascript
+
+Uri: https://qrcodescan.in/images/touch/apple-touch-icon.jpg
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\images\touch\apple-touch-icon.jpg
+Content Type: image/jpeg
+
+Uri: https://qrcodescan.in/images/touch/favicon-16x16.png
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\images\touch\favicon-16x16.png
+Content Type: image/png
+
+Uri: https://qrcodescan.in/images/touch/favicon-32x32.png
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\images\touch\favicon-32x32.png
+Content Type: image/png
+
+Uri: https://qrcodescan.in/images/touch/favicon.ico
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\images\touch\favicon.ico
+Content Type: image/vnd.microsoft.icon
+
+Uri: https://qrcodescan.in/index.html
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\index.html
+Content Type: text/html
+
+Uri: https://qrcodescan.in/manifest.json
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\manifest.json
+Content Type: application/json
+
+Uri: https://www.googletagmanager.com/gtag/js?id=G-JV7CRR9FCT
+File Name: C:\Users\DELL\Desktop\qrcodescan.in\gtag\js
+Content Type: application/javascript
+
